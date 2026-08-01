@@ -1,70 +1,90 @@
-# Sapna General Store - Offline POS System
+# Offline POS System
 
-A modern offline Point of Sale (POS) desktop application built using Python, PyQt6, and SQLite.
+Offline First Point of Sale (POS) System built with **Python**, **PyQt6** and **SQLite**.
 
-This repository is intended for portfolio demonstration and product showcase purposes. The complete source code is maintained privately.
+A modern desktop POS application designed for grocery stores, general stores and retail businesses. The application works completely offline, keeping business data secure on the local machine without requiring an internet connection.
+
+---
 
 ## Features
 
 - Offline First Architecture
 - Fast Billing System
-- Product & Inventory Management
-- Customer Management
-- Khata Management
-- Sales Reports
-- PDF Receipt Generation
-- Thermal Printer Support
-- User & Role Management
-- Dashboard Analytics
-- Automatic Database Backup
+- Barcode Scanner Support
+- Thermal Receipt Printing (58mm & 80mm)
+- Automatic PDF Receipt Generation
+- Product & Category Management
+- Customer & Khata Management
+- Inventory Management
+- Sales Dashboard & Reports
 - Power BI Export
-- Modern PyQt6 Interface
+- Backup & Restore
+- Multi User System
+- Light & Dark Theme
+- Receipt Customization
+- Printer Configuration
+
+---
 
 ## Technology Stack
 
 - Python
 - PyQt6
 - SQLite
-- Qt Designer
+- ESC/POS
+- Power BI
 - PyInstaller
-
-## Screenshots
-
-| Login | Dashboard |
-|--------|-----------|
-| <img src="Screenshots/Login.png" width="420"> | <img src="Screenshots/Dashboard.png" width="420"> |
-
-| Billing | Products |
-|----------|----------|
-| <img src="Screenshots/Billing.png" width="420"> | <img src="Screenshots/Products.png" width="420"> |
-
-| Customers | Reports |
-|------------|---------|
-| <img src="Screenshots/Customers.png" width="420"> | <img src="Screenshots/Reports.png" width="420"> |
-
-| Settings | Printer |
-|-----------|---------|
-| <img src="Screenshots/Settings.png" width="420"> | <img src="Screenshots/Printer.png" width="420"> |
-
-| Users | Receipt |
-|--------|---------|
-| <img src="Screenshots/User.png" width="420"> | <img src="Screenshots/Reciepts.png" width="420"> |
-
-## Download
-
-The Windows executable is available from the Releases section.
-
-## Developed By
-
-<p align="center">
-<img src="Screenshots/maystem.png" width="120">
-</p>
-
-<p align="center">
-<b>MAYSTEM DIGITAL SOLUTIONS</b><br>
-Karachi, Pakistan
-</p>
 
 ---
 
-This repository is published for demonstration and portfolio purposes only.
+# Screenshots
+
+| Login | Billing |
+|-------|---------|
+| ![](Screenshots/Login.png) | ![](Screenshots/Billing.png) |
+
+| Dashboard | Products |
+|-----------|----------|
+| ![](Screenshots/Dashboard.png) | ![](Screenshots/Products.png) |
+
+| Customers | Reports |
+|-----------|---------|
+| ![](Screenshots/Customers.png) | ![](Screenshots/Reports.png) |
+
+| Settings | Printer |
+|----------|---------|
+| ![](Screenshots/Settings.png) | ![](Screenshots/Printer.png) |
+
+| User Management | Receipt |
+|----------------|---------|
+| ![](Screenshots/User.png) | ![](Screenshots/Receipts.png) |
+
+---
+
+## Project Overview
+
+This repository showcases an offline desktop Point of Sale application developed for retail businesses.
+
+The application focuses on speed, reliability and ease of use while operating completely offline. It includes billing, inventory management, customer management, reporting, receipt printing and business analytics features.
+
+This repository is intended as a project showcase and portfolio demonstration.
+
+---
+
+# Developed By
+
+<div align="center">
+
+<img src="assets/maystem.png" width="140">
+
+### MAYSTEM DIGITAL SOLUTIONS
+
+Karachi, Pakistan
+
+</div>
+
+---
+
+## License
+
+This project is licensed under the MIT License.
