@@ -75,7 +75,7 @@ This repository is intended as a project showcase and portfolio demonstration.
 
 <div align="center">
 
-<img src="assets/maystem.png" width="140">
+<img src="Screenshots/maystem.png" width="140">
 
 ### MAYSTEM DIGITAL SOLUTIONS
 
