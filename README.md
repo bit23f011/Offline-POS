@@ -30,35 +30,25 @@ This repository is intended for portfolio demonstration and product showcase pur
 
 ## Screenshots
 
-### Login
-![Login](Screenshots/Login.png)
+| Login | Dashboard |
+|--------|-----------|
+| <img src="Screenshots/Login.png" width="420"> | <img src="Screenshots/Dashboard.png" width="420"> |
 
-### Dashboard
-![Dashboard](Screenshots/Dashboard.png)
+| Billing | Products |
+|----------|----------|
+| <img src="Screenshots/Billing.png" width="420"> | <img src="Screenshots/Products.png" width="420"> |
 
-### Billing
-![Billing](Screenshots/Billing.png)
+| Customers | Reports |
+|------------|---------|
+| <img src="Screenshots/Customers.png" width="420"> | <img src="Screenshots/Reports.png" width="420"> |
 
-### Products
-![Products](Screenshots/Products.png)
+| Settings | Printer |
+|-----------|---------|
+| <img src="Screenshots/Settings.png" width="420"> | <img src="Screenshots/Printer.png" width="420"> |
 
-### Customers
-![Customers](Screenshots/Customers.png)
-
-### Reports
-![Reports](Screenshots/Reports.png)
-
-### Settings
-![Settings](Screenshots/Settings.png)
-
-### Printer
-![Printer](Screenshots/Printer.png)
-
-### Users
-![Users](Screenshots/User.png)
-
-### Receipts
-![Receipts](Screenshots/Reciepts.png)
+| Users | Receipt |
+|--------|---------|
+| <img src="Screenshots/User.png" width="420"> | <img src="Screenshots/Reciepts.png" width="420"> |
 
 ## Download
 
